@@ -1,0 +1,13 @@
+# Emacs
+*~
+.#*
+\#*
+# vim
+.vim
+# Mac
+.DS_Store
+# Python
+*venv
+.python-version
+*.egg-info
+**/__pycache__
